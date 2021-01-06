@@ -14,7 +14,7 @@
     "test": "jest --coverage"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^26.2.2",
     "chai": "^4.2.0",
     "enzyme": "^3.11.0",
